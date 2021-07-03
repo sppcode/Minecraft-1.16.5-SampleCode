@@ -1,0 +1,6 @@
+{
+	"item.tutorial.example_item": "Example Item",
+	"item.tutorial.special_item": "Special Item",
+	"block.tutorial.example_block": "Block of Example",
+	"tooltip.special_item.hold_shift": "\u00A76Hold\u00A7a Shift\u00A76 for more information."
+}

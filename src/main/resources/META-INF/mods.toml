@@ -1,0 +1,15 @@
+modLoader="javafml" 
+loaderVersion="[36,)" 
+license="All rights reserved"
+
+[[mods]]
+modId="tutorial" 
+version="1.0" 
+displayName="Tutorial Mod"
+# logoFile="examplemod.png"
+credits="Thanks for this example mod goes to Java"
+authors="SPPCode"
+
+description='''
+It's just a mod description. Hey there.
+'''

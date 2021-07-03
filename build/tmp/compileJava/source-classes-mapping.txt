@@ -1,0 +1,18 @@
+com/sppcode/tutorialmod/core/init/PotionInit.java
+ com.sppcode.tutorialmod.core.init.PotionInit
+com/sppcode/tutorialmod/core/init/EnchantmentInit.java
+ com.sppcode.tutorialmod.core.init.EnchantmentInit
+com/sppcode/tutorialmod/core/init/EntityTypeInit.java
+ com.sppcode.tutorialmod.core.init.EntityTypeInit
+com/sppcode/tutorialmod/core/init/ItemInit.java
+ com.sppcode.tutorialmod.core.init.ItemInit
+com/sppcode/tutorialmod/client/util/ClientUtils.java
+ com.sppcode.tutorialmod.client.util.ClientUtils
+com/sppcode/tutorialmod/core/init/BlockInit.java
+ com.sppcode.tutorialmod.core.init.BlockInit
+com/sppcode/tutorialmod/TutorialMod.java
+ com.sppcode.tutorialmod.TutorialMod
+com/sppcode/tutorialmod/core/init/TileEntityTypeInit.java
+ com.sppcode.tutorialmod.core.init.TileEntityTypeInit
+com/sppcode/tutorialmod/core/init/ContainerTypeInit.java
+ com.sppcode.tutorialmod.core.init.ContainerTypeInit
